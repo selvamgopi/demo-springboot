@@ -1,0 +1,1 @@
+This is the initial project created to get myself familiar with Git hub
