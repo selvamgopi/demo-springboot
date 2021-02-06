@@ -1,3 +1,9 @@
 This is the initial project created to get myself familiar with Git hub
 
+
+Now it's time to pull a new branch #1
+
+some more files added into main branch, but still editing my changes
+
 Adding few more main changes in master => before merging the pull request
+
