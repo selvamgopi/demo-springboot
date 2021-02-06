@@ -1,1 +1,3 @@
 This is the initial project created to get myself familiar with Git hub
+
+Now it's time to pull a new branch #1
